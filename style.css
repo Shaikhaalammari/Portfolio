@@ -1,0 +1,93 @@
+h1 {
+  font-family: "Satisfy", cursive;
+}
+
+.font-below-heading {
+  font-family: "Satisfy", cursive;
+}
+
+.make-it-cool {
+  color: #438a5e;
+}
+
+.pen {
+  color: #01a9b4;
+  font-family: "Indie Flower", cursive;
+}
+body {
+  background-color: #f8f3eb;
+}
+
+.ottoman-era {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 200;
+}
+
+.font-here {
+  font-family: "Montserrat", sans-serif;
+}
+
+.heading-font {
+  font-family: "Montserrat", sans-serif;
+  font-family: "Oswald", sans-serif;
+}
+
+.pen-font {
+  font-family: "Indie Flower", cursive;
+}
+
+.penguinAv {
+  vertical-align: middle;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+}
+
+img {
+  float: left;
+}
+
+body {
+  background-image: url("Background3.jpg");
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+.textallign {
+  text-align: justify;
+}
+.navbar {
+  width: 100%;
+  overflow: auto;
+}
+
+.navbar a {
+  float: left;
+  padding: 12px;
+  color: white;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+.navbar a:hover {
+  background-color: rgb(162, 235, 240);
+}
+
+.active {
+  background-color: #562349;
+}
+
+.column {
+  float: left;
+  width: 33.33%;
+  padding: 5px;
+}
+
+.row::after {
+  content: "";
+  clear: both;
+  display: table;
+}
